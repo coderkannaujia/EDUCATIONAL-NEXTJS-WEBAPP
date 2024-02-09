@@ -5,12 +5,20 @@ module.exports = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        amit: {
+          blue: "100D7A",
+          green: "D9ECFF",
+          yello: "#F1A501",
+
+          gray: "#5E6282",
+        },
+      },
+      fontFamily: {
+        abc: ["Poppins", "Pacifico", "Volkhov"],
       },
     },
   },
