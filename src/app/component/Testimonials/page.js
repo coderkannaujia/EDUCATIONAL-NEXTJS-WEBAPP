@@ -3,9 +3,10 @@ import Image from "next/image";
 import Ellipse14 from "/public/image/Ellipse14.png";
 import amit1 from "/public/image/amit1.jpg";
 import star from "/public/image/star.png";
+import star1 from "/public/image/star1.png";
 import men2 from "/public/image/men2.png";
 import men3 from "/public/image/men3.png";
-import star1 from "/public/image/star1.png";
+
 
 // import vector2 from "/public/image/vector2.png";
 // import vector2 from "/public/image/vector2.png";

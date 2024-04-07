@@ -3,8 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 import Frame from "/public/image/Frame.png";
 import Eduplore from "/public/image/Eduplore.png";
-import vector from "/public/image/vector.png";
-import vector1 from "/public/image/vector1.png";
+import vector from "/public/image/Vector.png";
+import vector1 from "/public/image/Vector1.png";
 import vector2 from "/public/image/vector2.png";
 
 const Navbar = () => {
