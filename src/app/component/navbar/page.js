@@ -41,11 +41,11 @@ const Navbar = () => {
         </div>
 
         <div className="flex justify-start gap-4">
-          <Image src={vector2} className="w-10 h-10" />
+          <Image src={vector2} alt="vertor2" className="w-10 h-10" />
 
-          <Image src={vector} className="w-10 h-10" />
+          <Image src={vector} alt="vetor" className="w-10 h-10" />
 
-          <Image src={vector1} className="w-10 h-10" />
+          <Image src={vector1} alt="vector1" className="w-10 h-10" />
         </div>
 
         <div className="flex justify-start gap-6  ">

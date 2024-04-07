@@ -50,19 +50,19 @@ const Testimonials = () => {
 
           <div className="flex justify-start ml-6 mt-14 xl:ml-16">
             <div>
-              <Image src= {star } alt="star" />
+              <Image src= {star} alt="star" />
             </div>
             <div>
-              <Image src= {star } alt="star" />
+              <Image src= {star} alt="star" />
             </div>
             <div>
-              <Image src={star } alt="star" />
+              <Image src={star} alt="star" />
             </div>
             <div>
-              <Image src={star } alt="star" />
+              <Image src={star} alt="star" />
             </div>
             <div>
-              <Image src={star1 } alt="star" />
+              <Image src={star1} alt="star" />
             </div>
           </div>
         </div>
